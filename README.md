@@ -21,3 +21,6 @@ After adding as collobrator
 
 
 And after accepting invitation
+
+
+making changes chaingin account
