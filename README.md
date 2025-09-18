@@ -1,7 +1,5 @@
 # testing-gitt
 
-
-
 Testing git is a respository where git commands are tested.
 
 
@@ -21,6 +19,3 @@ After adding as collobrator
 
 
 And after accepting invitation
-
-
-making changes chaingin account
