@@ -18,3 +18,6 @@ these changes are from dev branch
 
 
 After adding as collobrator
+
+
+And after accepting invitation
